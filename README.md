@@ -9,5 +9,5 @@ INSERT INTO users(nome, email) VALUES ('JADERDEVELORES','JADER@GMAIL.COM');
 obs: FALTAVA (
 
 
-
+EM CASO DE ERRO DE ACESSO A NODEMOM
  Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
